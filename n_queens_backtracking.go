@@ -85,5 +85,5 @@ func calculateAvailablePosition(placedQueens []int, rowNumber int, n int) []int 
 }
 
 func main() {
-	fmt.Println(totalNQueens(5))
+	fmt.Println(totalNQueens(7))
 }
